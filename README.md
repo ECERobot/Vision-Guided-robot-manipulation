@@ -8,5 +8,5 @@ The methodology illustrated in Figure 1 provides a comprehensive overview of the
 ## 2 Video demo:
 
 <center>
-<img src=' document/Demo.gif'>
+<img src='document/Demo.gif'>
 </center>
